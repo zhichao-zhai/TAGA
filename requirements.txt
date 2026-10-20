@@ -1,0 +1,30 @@
+# Python dependencies for video fitting and evaluation.
+# Install matching PyTorch, torchvision and PyTorch3D builds separately; see docs/INSTALL.md.
+PyYAML==6.0.1
+numpy==1.23.1
+scipy
+scikit-image
+scikit-learn
+matplotlib
+pandas
+openpyxl
+Pillow
+opencv-python
+imageio
+imageio-ffmpeg
+plyfile
+open3d
+transforms3d
+trimesh
+omegaconf
+distinctipy
+tqdm
+tensorboard
+torchmetrics
+lpips
+termcolor
+kornia
+pycocotools
+chumpy
+chamferdist
+geomloss
